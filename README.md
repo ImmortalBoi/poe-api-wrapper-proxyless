@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1>Poe API Wrapper proxyless <img src="https://psc2.cf2.poecdn.net/favicon.svg" height="35"></h1>
+<h1>Poe API Wrapper Proxyless <img src="https://psc2.cf2.poecdn.net/favicon.svg" height="35"></h1>
 
-<p><em>A Fork of the Poe API Wrapper without Ballyrugen or proxies for a lighter weight project </em></p>
+<p><em>A Fork of the Poe API Wrapper without Ballyregen or proxies for a lighter weight project </em></p>
 </div>
 
-Refer to the [original documentation](https://github.com/snowby666/poe-api-wrapper/) for any help.
+Refer to the [original documentation](https://github.com/snowby666/poe-api-wrapper/) for any help. This is just a fork because the proxy dependencies took up too much space on my Vercel function. 
 
 To install in your project run this command.
 ```sh
