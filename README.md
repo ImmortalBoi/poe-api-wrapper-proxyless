@@ -10,7 +10,7 @@
 Refer to the orignial documentation for any help, [here](https://github.com/snowby666/poe-api-wrapper/)
 
 ## Copyright:
-This program is licensed under the [GNU GPL v3](https://github.com/snowby666/poe-api-wrapper/blob/main/LICENSE). All code has been written by me, [snowby666](https://github.com/snowby666).
+This program is licensed under the [GNU GPL v3](https://github.com/snowby666/poe-api-wrapper/blob/main/LICENSE). All code has been written by [snowby666](https://github.com/snowby666).
 
 ### Copyright Notice:
 ```
