@@ -5,7 +5,14 @@
 <p><em>A Fork of the Poe API Wrapper without Ballyrugen or proxies for a lighter weight project </em></p>
 </div>
 
-Refer to the orignial documentation for any help, [here](https://github.com/snowby666/poe-api-wrapper/)
+Refer to the [original documentation](https://github.com/snowby666/poe-api-wrapper/) for any help.
+
+To install in your project run this command.
+```sh
+  pip install git+https://github.com/ImmortalBoi/poe-api-wrapper-proxyless.git#egg=poe_api_wrapper
+```
+
+
 
 ## Copyright:
 This program is licensed under the [GNU GPL v3](https://github.com/snowby666/poe-api-wrapper/blob/main/LICENSE). All code has been written by [snowby666](https://github.com/snowby666).
